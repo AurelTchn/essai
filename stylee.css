@@ -1,0 +1,18 @@
+
+body *{
+    font-family: "Times New Roman";
+}
+#suivant{
+    text-decoration: none;
+    color: black;
+}
+#suivant:hover{
+    color: white;
+}
+#button{
+    color: black;
+    text-decoration: none;
+}
+#button:hover{
+    color: white;
+}
